@@ -1,6 +1,3 @@
-[submodule "letsgo-backend"]
-	path = letsgo-backend
-	url = git@github.com:yairdyule/letsgo-backend.git
 [submodule "backend"]
 	path = backend
 	url = git@github.com:yairdyule/letsgo-backend.git
